@@ -1,0 +1,17 @@
+p {
+    font-size: 1.5rem;
+}
+
+label {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+button {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.bck:hover {
+    color: rgb(145, 143, 140);
+}
